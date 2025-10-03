@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "My Chrome Extension",
+    "version": "1.0",
+    "description": "First test extension",
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  {
+    "manifest_version": 3,
+    "name": "My Chrome Extension",
+    "version": "1.0",
+    "description": "First test extension",
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
